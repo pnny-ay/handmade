@@ -1,7 +1,6 @@
 # これなに
 - アウトプットをまとめたリポジトリです.
 - 以下に本リポジトリ内に置いている資料の概要, 他リポジトリの説明を記述します.
-- **12/23追記:面接用スライドをgoogle drive(https://drive.google.com/drive/folders/1Hfa4RNw73SNWr9mlXZvRmUGGe2TPxDEQ?usp=sharing )にアップロードしました.**
 
 ## 資料概要
 
